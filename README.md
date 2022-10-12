@@ -53,7 +53,7 @@
 
 [![DGCS2EDI ScreenShot][product-screenshot]](https://github.com/ggfunnn/DGCS2EDI)
 
-This tool allows DGCS System users to generate and mail invoices in EDI format. It works as a "translator" of XML invoices from DGCS System. With one click of a button you can create and send an invoice to a given customer. It makes your and your client live easier.
+This tool allows DGCS System users to generate and mail invoices in EDI format. It works as a "translator" of XML invoices from DGCS System. With one click of a button you can create and send an invoice to a given customer. It makes your and your client life easier.
 
 Here's why:
 * You save time on sending an invoice manually
